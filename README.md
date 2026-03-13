@@ -1,1 +1,1 @@
-# User-Events-SQL-Project
+# Sales Funnel Analysis using MySQL
