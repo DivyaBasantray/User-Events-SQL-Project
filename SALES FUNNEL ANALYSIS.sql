@@ -2,7 +2,7 @@
 
 USE events_of_user;
 
-SELECT count(*) 
+SELECT COUNT(*) 
 FROM user_events;
 
 SELECT *
